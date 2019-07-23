@@ -1,0 +1,21 @@
+#Intsall EnvWrapper  
+pip install virtualenvwrapper       
+
+#For Win
+pip install virtualenvwrapper-win
+----------------------------------
+#Make Env
+mkvirtualenv   "name"
+----------------------------------
+#List All Env
+lsvirtualenv
+----------------------------------
+#Active Env
+workon   "name"
+----------------------------------
+#List Active Env
+workon
+----------------------------------
+#Remove Env
+rmvirtualenv "name"
+     

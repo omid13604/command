@@ -1,0 +1,29 @@
+#Make Site With Github
+
+#Make Repository Github
+"username".github.io
+--------------------------
+#Install Git
+sudo apt install git
+#For Windows
+Downlaod Git Software And Install
+--------------------------
+#Clone Git
+git clone https://github.com/"username"/"username".github.io
+--------------------------
+#Make Html File Or Html Template 
+cd username.github.io
+echo "Hello World" > index.html
+--------------------------
+#Git Add Files
+git add --all
+--------------------------
+#Git Commit
+git commit -m "Command"
+--------------------------
+#Git Push (Pubish File)
+git push -u origin master
+-------------------------
+#View Site
+http://"username".github.io
+
