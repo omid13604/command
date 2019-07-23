@@ -1,4 +1,4 @@
-دستورات کاربردی و مفید  رو اینجا قرار میدم
+Practical and useful commands
 
 Linux
 Python
