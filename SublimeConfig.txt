@@ -1,0 +1,15 @@
+#Sublime Config
+
+1-Install Sublime
+
+2-Open Sublime Then Ctrl+Shift+P 
+
+3-Install Package Control
+
+4-Install Package
+
+5-Sidebar Enhancment
+
+6-Djaniro
+
+7-Pep8
