@@ -1,0 +1,41 @@
+#Introduction Start Project Django
+
+#Install Python
+pip install python
+
+#For Windows
+Download Python And Install
+-----------------------------------
+#Install Virtuall Env Or Wrapper 
+pip install virtualenvwrapper       
+
+#For Win
+pip install virtualenvwrapper-win
+-----------------------------------
+#Make Env With Wrapper
+mkvirtualenv   "name"
+
+#Active Env
+workon   "name"
+-----------------------------------
+#Install Django In Env
+pip install Django
+-----------------------------------
+#Istall TimeZone For Django (pytz)
+pip install pytz
+-----------------------------------
+#Install Editor (Sublime Or Vscode Or ...)
+Download And Install
+-----------------------------------
+#Start Make Project Django
+django-admin start project "project name"
+-----------------------------------
+#Make App Django
+python manage.py startapp "app name"
+-----------------------------------
+#Run Django project If Busy Port 8000 Type Manuly Port For Example 8001
+python manage.py runserver
+-----------------------------------
+
+
+
