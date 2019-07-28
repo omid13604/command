@@ -1,0 +1,7 @@
+#convert ipynb to PDF
+
+1- sudo apt install ipython
+2- pip3 install nbcovert
+3- sudo apt-get install pandoc
+4- sudo apt-get install texlive-xetex
+5- ipython nbconvert --to PDF "name".ipynb
